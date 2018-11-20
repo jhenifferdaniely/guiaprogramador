@@ -1,4 +1,4 @@
-# Guia do programador   :books:
+# Guia do programador
 
 A dúvida que fica martelando na cabeça da maioria das pessoas que estão iniciando os estudos na programação é: O que estudar primeiro? Por onde devo começar? **Qual linguagem de programação devo aprender?**
 
