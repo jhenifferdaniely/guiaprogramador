@@ -1,20 +1,30 @@
-# Guia do programador
+# Guia do programador   :books:
 
-A dúvida que fica martelando na cabeça da maioria das pessoas que estão iniciando os estudos na programação é: O que estudar primeiro? Por onde devo começar?
-Qual linguagem de programação devo aprender?
+A dúvida que fica martelando na cabeça da maioria das pessoas que estão iniciando os estudos na programação é: O que estudar primeiro? Por onde devo começar? **Qual linguagem de programação devo aprender?**
 
-Eu ja passei por isto e para me organizar nos estudos resolvi fazer este repositório, como uma "agenda". Aqui eu anoto o que vou estudar e vou marcando o que já aprendi.
-Fica a dica pra você também que quer organizar os estudos sem ficar louco(a)! rs
+Eu já passei por isso e sei bem como é frustrante esse tipo de dúvida. Por este motivo resolvi criar este repositório para me ajudar na organização (*não só eu mas você também*), aqui colocarei as tecnologias que quero aprender ou que estou aprendendo juntamente com **materiais grátis** que eu for achando por ai... 
 
-Back end
-- Java
-- C e C++
-- Python
+## **Frontend**
+
+O que podemos aprender do front-end?
+
+- HTML
+- CSS
+- Javascript
+- Design Responsivo
+- Lógica de programação
+- Bootstrap
+- E muito mais...
+
+## **Backend**
+
+E do back-end podemos aprender:
+
+- PHP
 - Ruby
-- Php
+- Python
+- Servidor
+- Database
+- E muito mais...
 
-Front End
-- html
-- css
-- javascript
-- Responsive web
+Espero poder ter te ajudado (*e a mim também rs*). Bons estudos!
